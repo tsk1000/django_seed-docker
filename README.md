@@ -14,4 +14,3 @@ docker-compose up --build -d
 -------------------------------
 TODO
 ・ディレクトリ構成を変える
-・settings.pyのDBをPostgreSQLに変える
