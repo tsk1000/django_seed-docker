@@ -9,3 +9,9 @@ docker 上に Django / PostgreSQL の開発環境を構築するためのタネ
 Dockerコンテナの環境構築を行い下記のコマンドを実行
 
 docker-compose up --build -d
+
+
+-------------------------------
+TODO
+・ディレクトリ構成を変える
+・settings.pyのDBをPostgreSQLに変える
